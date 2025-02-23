@@ -8,7 +8,11 @@ This project involves analyzing the Superstore Sales Data to segment customers b
 - `create_database.sql`: This SQL script will create the database and tables.
 - `data_cleaning_eda.sql`: Data checks, _______
 - `rfm_segmentation.sql`: ____________
-Note: Database management system is MySQL. Data was imported using Data Import Wizard Tool.
+
+## Important Notes: 
+- Database management system is MySQL.
+- Data was imported using Data Import Wizard Tool.
+- 
 
 ## Methodology:
 1. **Data Verification:**
